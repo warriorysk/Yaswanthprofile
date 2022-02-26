@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+    font-family: sans-serif;
+}
+.top{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #5cdb95;
+}
+.hl{
+    width:100px;
+    height:100px;
+    margin-left: 30px;
+
+}
+hr{
+    color: #05386b;
+    margin-top:0px;
+}
+h1{
+    color:#05386b;
+    margin-top:50px;
+    margin-left:20%;
+    margin-right:20%;
+    font-weight: bold;
+   
+}
+span{
+    color:orange;
+}
+.profpic{
+    
+    margin-left: 32%;
+    margin-top: 50px;
+    padding: 20px;
+
+}
+.sai{
+    width:450px;
+    height:300px;
+    
+}
+h2{
+    color:#34495e;
+    font-size: 20px;
+    background-color: #5cdb95;
+
+}
+.about p{
+    padding:20px;
+}
+.about{
+    padding-bottom: 20px;
+    font-size: 20px;
+    
+}
+.skills {
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+
+.hobbies{
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+
+.hobbies ul {
+    padding: 20px;
+    
+}
+.hobbies ul li{
+    padding: 20px;
+    font-size: 20px;
+}
+.location {
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+.location .iframe{
+    padding-top: 20px;
+}
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+.fa:hover{
+    opacity: 0.7;
+
+}
+.fa-linkedin{
+    background:#0e76a8;
+    color:white;
+    
+}
+.fa-github{
+    background:#171515;
+    color:white;
+    
+}
